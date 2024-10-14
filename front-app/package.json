@@ -16,6 +16,8 @@
   },
   "dependencies": {
     "@elastic/elasticsearch": "^8.15.0",
+    "@radix-ui/react-alert-dialog": "^1.1.2",
+    "@radix-ui/react-slot": "^1.1.0",
     "@radix-ui/react-switch": "^1.1.0",
     "@radix-ui/react-tabs": "^1.1.0",
     "@stomp/stompjs": "^7.0.0",
