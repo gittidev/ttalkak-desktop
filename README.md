@@ -96,7 +96,7 @@ npm run dev
 
 # 빌드
 npm run build
-
+```
 ---
 🛠️ 주요 구현 포인트
 Electron의 contextBridge를 활용한 안전한 IPC 채널 설계
